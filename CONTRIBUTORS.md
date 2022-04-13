@@ -1,3 +1,3 @@
 # Contributors
 
-- {{Your full name}} [Github](https://github.com/{{your-github-username}})
+- Rishi Kejriwal [Github](https://github.com/Kej-r03)
