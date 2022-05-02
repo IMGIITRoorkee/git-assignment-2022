@@ -8,4 +8,5 @@
 - Rishi Kejriwal[Github](https://github.com/Kej-r03)
 - Akhil Punia [Github](https://github.com/Ak216puniA)
 - Vaishnavi Virat Dave [Github](https://github.com/DaveVaishnavi)
+- Mehak Sharma[Github](https://github.com/Mehak-4545)
 - Rishiraj Shrivastava [Github](https://github.com/rishiraj03)
