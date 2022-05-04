@@ -13,3 +13,4 @@
 - Anupriya Det [Github](https://github.com/Anupriya-Dey)
 - Madhav Saini [Github](https://github.com/FireNdIce3)
 - Garvit Gupta [Github](https://github.com/Garvitg28)
+- Anshika Arora [Github](https://github.com/anshi0207)
