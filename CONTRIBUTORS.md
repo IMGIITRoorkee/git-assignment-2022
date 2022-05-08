@@ -12,3 +12,4 @@
 - Anupriya Det [Github](https://github.com/Anupriya-Dey)
 - Madhav Saini [Github](https://github.com/FireNdIce3)
 - Garvit Gupta [Github](https://github.com/Garvitg28)
+- Gauri Garg [Github](https://github.com/findinggigi)
