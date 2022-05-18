@@ -15,3 +15,4 @@
 - Garvit Gupta [Github](https://github.com/Garvitg28)
 - Anshika Arora [Github](https://github.com/anshi0207)
 - Chandramouli Koushik [Github](https://github.com/cmk-30)
+- Singamsetti Vyusti [Github](https://github.com/SVyusti)
